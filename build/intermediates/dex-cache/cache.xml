@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lds\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Programacion movil\AndroidMVC-feature-mock\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_3f0358749b97cbb3d9cffb724c32df26dd2ad203.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lds\.android\build-cache\19cf8166243ecb7cf057f5f30237ea3e56a01652\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Programacion movil\AndroidMVC-feature-mock\app\build\intermediates\pre-dexed\debug\classes_b16beec6819105ee0d89a0c07e174022b966850d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lds\.android\build-cache\00b7397f77cb84396eeb7dfc3df0bb1c1e1e48f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Programacion movil\AndroidMVC-feature-mock\app\build\intermediates\pre-dexed\debug\classes_5059eadcf7471ba1543f73865c721392868d40da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lds\.android\build-cache\19cf8166243ecb7cf057f5f30237ea3e56a01652\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Programacion movil\AndroidMVC-feature-mock\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_17d2cf6a93f4aec0b962f5fc48448a8b83de2287.jar" />
+    </item>
+
+</items>
